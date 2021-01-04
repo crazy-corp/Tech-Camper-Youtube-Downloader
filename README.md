@@ -1,6 +1,8 @@
 # Tech-Camper-Youtube-Downloader
 Youtube Downloader software developed using Python for windows 64bit.
 
+Note: Extract FFMPEG.rar to same folder where you keep EXE file!
+
 <a href="https://github.com/crazy-corp/Tech-Camper-Youtube-Downloader/releases/">Find EXE file here</a>
 Download 1080p and above videos with audio.
 
