@@ -1,7 +1,9 @@
 # Tech-Camper-Youtube-Downloader
 Youtube Downloader software developed using Python for windows 64bit.
-Finf EXE file <a href="https://github.com/crazy-corp/Tech-Camper-Youtube-Downloader/releases/">here</a>
+
+<a href="https://github.com/crazy-corp/Tech-Camper-Youtube-Downloader/releases/">Find EXE file here</a>
 Download 1080p and above videos with audio.
+
 #FFMPEG.EXE is required to run. 
 Download progressive files without Post Processing.
 Download extracted audio files.
